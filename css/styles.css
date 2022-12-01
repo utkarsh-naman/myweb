@@ -2,6 +2,12 @@
 font-family:'Memphis';
 src: url(fonts/Memphis River.otf) format('opentype');
 }
+@font-face{
+font-family: 'Wedding';
+src: url(fonts/Wedding.otf) format('opentype');
+font-weight: normal;
+}
+
 @font-face {
     font-family: 'Memories';
     src: url('Memories.eot');
@@ -22,6 +28,6 @@ src: url(fonts/Memphis River.otf) format('opentype');
 a{color:Green;text-align: center; text-decoration: none; }
 
 h1{
-font-family:'Memories','Memphis', Sans-serif;
+font-family:'Wedding','Memories','Memphis', Sans-serif;
 font-weight: normal;
 }
