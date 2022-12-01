@@ -1,1 +1,10 @@
+@font-face{
+font-family:'Memories';
+src: url(fonts/Memories.ttf) format('truetype');
+}
 a{color:Green;text-align: center; text-decoration: none; }
+
+h1{
+font-family:'Memories', Sans-serif;
+font-weight: normal;
+}
