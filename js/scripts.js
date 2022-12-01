@@ -1,1 +1,1 @@
-alert("Hey you, Happy birthday!")
+alert("Hey you, Happy birthday!");
