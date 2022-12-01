@@ -2,9 +2,14 @@
 font-family:'Memories';
 src: url(fonts/Memories.ttf) format('truetype');
 }
+@font-face{
+font-family:'Memphis';
+src: url(fonts/Memphis River.otf) format('opentype');
+}
+
 a{color:Green;text-align: center; text-decoration: none; }
 
 h1{
-font-family:'Memories', Sans-serif;
+font-family:'Memories','Memphis', Sans-serif;
 font-weight: normal;
 }
