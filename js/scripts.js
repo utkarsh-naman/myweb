@@ -17,7 +17,8 @@ function togglegift(){
 var image = document.getElementById("gift");
 if (image.src.match("closed")){
 image.src="img/open.png";
-openvid();}
+if(image.src.match("open")){
+openvid();}}
 else{
 image.src="img/closed.png";}
 }
