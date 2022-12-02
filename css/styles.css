@@ -58,9 +58,11 @@ background: linear-gradient(45deg, #e1f5fe, #b3e5fc, #81d4fa, #4fc3f7, #29b6f6, 
 h1{
 font-family:'Wedding','Memories','Memphis', Sans-serif;
 font-weight: normal;
+font-size:50px
 }
 
 h2{
 font-family: 'Gellaghan', 'Memories', 'Memphis', Sans-serif;
 font-weight: normal;
+font-size:50px
 }
