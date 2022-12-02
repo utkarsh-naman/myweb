@@ -16,6 +16,7 @@ window.open("https://youtube.com/shorts/0FSeplvUVSs?feature=share");
 function togglegift(){
 var image = document.getElementById("gift");
 if (image.src.match("closed")){
+sleep(2000);
 image.src="img/open.png";
 if(image.src.match("open")){
 openvid();}}
