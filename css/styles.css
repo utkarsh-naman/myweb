@@ -45,7 +45,6 @@ font-weight: normal;
 a{color:Green;text-align: center; text-decoration: none; }
 
 body{
-align-items: center;
 height: 200vh;
 display: flex;
 justify-content: center;
