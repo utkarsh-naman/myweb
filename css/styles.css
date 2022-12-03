@@ -54,6 +54,9 @@ background: #1a2980; /* in-case couldn't load others. */
 background: -webkit-linear-gradient(0deg, #1a1919, #1a1919, #000000, #000000, #000000);
 background: linear-gradient(0deg, #1a1919, #1a1919, #000000, #000000, #000000);
 }
+header{
+padding-top: 0px;
+}
 
 h1{
 font-family:'Wedding','Memories','Memphis', Sans-serif;
