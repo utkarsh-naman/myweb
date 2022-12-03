@@ -50,7 +50,7 @@ display: flex;
 justify-content: center;
 
 flex-direction: column;
-background: #1a2980; /* in-case couldn't load others. */
+background: #000000; /* in-case couldn't load others. */
 background: -webkit-linear-gradient(0deg, #000000, #000000, #000000);
 background: linear-gradient(0deg, #000000, #000000, #000000);
 }
