@@ -74,3 +74,12 @@ background: -webkit-linear-gradient(90deg, #858383, #ffffff);
   -webkit-text-fill-color: transparent;
 
 }
+h3{
+font-family: 'Gellaghan', 'Memories', 'Memphis', Sans-serif;
+font-weight: normal;
+font-size:50px;
+background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
