@@ -51,8 +51,8 @@ justify-content: center;
 
 flex-direction: column;
 background: #1a2980; /* in-case couldn't load others. */
-background: -webkit-linear-gradient(0deg, #111212, #111212, #000000, #000000, #000000);
-background: linear-gradient(0deg, #111212, #111212, #000000, #000000, #000000);
+background: -webkit-linear-gradient(0deg, #000000, #000000, #000000);
+background: linear-gradient(0deg, #000000, #000000, #000000);
 }
 
 h1{
