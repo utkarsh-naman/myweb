@@ -59,7 +59,7 @@ h1{
 font-family:'Wedding','Memories','Memphis', Sans-serif;
 font-weight: normal;
 font-size:150px;
-background: -webkit-linear-gradient(0deg, #000000, #e1f5fe);
+background: -webkit-linear-gradient(90deg, #000000, #e1f5fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
@@ -69,7 +69,7 @@ h2{
 font-family: 'Gellaghan', 'Memories', 'Memphis', Sans-serif;
 font-weight: normal;
 font-size:50px;
-background: -webkit-linear-gradient(0deg, #000000, #e1f5fe);
+background: -webkit-linear-gradient(90deg, #000000, #e1f5fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
