@@ -51,8 +51,8 @@ justify-content: center;
 
 flex-direction: column;
 background: #1a2980; /* in-case couldn't load others. */
-background: -webkit-linear-gradient(45deg, #e1f5fe, #b3e5fc, #81d4fa, #4fc3f7, #29b6f6, #03a9f4, #039be5, #0288d1, #0277bd, #01579b);
-background: linear-gradient(45deg, #e1f5fe, #b3e5fc, #81d4fa, #4fc3f7, #29b6f6, #03a9f4, #039be5, #0288d1, #0277bd, #01579b);
+background: -webkit-linear-gradient(180deg, #e1f5fe,#858383, #595858, #262525,#383838,#1c1919, #1a1919, #000000);
+background: linear-gradient(180deg, #e1f5fe,#858383, #595858, #262525,#383838,#1c1919, #1a1919, #000000);
 }
 
 h1{
