@@ -51,8 +51,8 @@ justify-content: center;
 
 flex-direction: column;
 background: #1a2980; /* in-case couldn't load others. */
-background: -webkit-linear-gradient(0deg, #e1f5fe,#858383, #595858, #262525,#383838,#1c1919, #1a1919, #000000);
-background: linear-gradient(0deg, #e1f5fe,#858383, #595858, #262525,#383838,#1c1919, #1a1919, #000000);
+background: -webkit-linear-gradient(0deg, #e1f5fe,#858383, #1a1919, #000000);
+background: linear-gradient(0deg, #e1f5fe,#858383, #1a1919, #000000);
 }
 
 h1{
@@ -68,7 +68,6 @@ h2{
 font-family: 'Gellaghan', 'Memories', 'Memphis', Sans-serif;
 font-weight: normal;
 font-size:50px
-background: -webkit-linear-gradient(0deg,#e1f5fe,#858383, #595858);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+color: White
+
 }
