@@ -75,7 +75,7 @@ background: -webkit-linear-gradient(90deg, #858383, #ffffff);
 
 }
 h3{
-font-family: Sans-serif;
+font-family: 'Gellaghan', Sans-serif;
 font-weight: normal;
 font-size:50px;
 background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
@@ -85,7 +85,7 @@ background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
 }
 
 h4{
-font-family: Sans-serif;
+font-family: 'Gellaghan', Sans-serif;
 font-weight: normal;
 font-size:100px;
 background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
