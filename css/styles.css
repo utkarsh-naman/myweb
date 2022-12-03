@@ -83,3 +83,14 @@ background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
   -webkit-text-fill-color: transparent;
 
 }
+
+h4{
+font-family: Sans-serif;
+font-weight: normal;
+font-size:100px;
+background: -webkit-linear-gradient(90deg,#ebb434, #ffd505, #fcaf49);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
