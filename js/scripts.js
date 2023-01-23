@@ -1,4 +1,4 @@
-alert("Hi Rahul, gotta say you something. Long time no see.");
+alert("Hi Khushi, gotta say you something. Long time no see.");
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
