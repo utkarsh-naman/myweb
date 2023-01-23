@@ -4,7 +4,7 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 function openvid(){
-sleep(2000).then(()=> {window.open("https://youtu.be/qn0RSYOnlXU");});
+sleep(2000).then(()=> {window.open("https://youtube.com/shorts/0FSeplvUVSs");});
 }
 
 function togglegift(){
